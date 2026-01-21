@@ -1,9 +1,12 @@
 **云服务器**
 - https://mkgcs.taobao.com/
 - 联系客服开通云服务,一次开通永久使用
+- 云服务长期维护更新
+- 支持私有化部署
+- 支持定制开发
 
 **项目演示**
-- 演示地址：http://admin.psi.wxngrok.com/#/login
+- 演示地址：http://psi.wxngrok.com/
 - 账号密码：
   - test/888888
   - test2/888888
